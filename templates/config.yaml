@@ -1,3 +1,5 @@
 default:
   extension: .ofocus-style
   output: build
+  partials:
+    - rgb-pairs

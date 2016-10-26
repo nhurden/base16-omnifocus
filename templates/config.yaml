@@ -1,0 +1,3 @@
+default:
+  extension: .ofocus-style
+  output: build
